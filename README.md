@@ -95,3 +95,13 @@ text-summarizer-llama/
 - `venv/` is excluded from version control (not uploaded to GitHub).
 - Use `requirements.txt` to install dependencies on other machines.
 
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+### Acknowledgements
+
+- This project uses [FastAPI](https://fastapi.tiangolo.com/) licensed under the **MIT License**.
+- It also uses [Streamlit](https://streamlit.io/) licensed under the **Apache License 2.0**.
+- The model is served locally using [Ollama](https://ollama.com), a proprietary tool.
+
